@@ -1,0 +1,31 @@
+C:\Users\Simas\Desktop\Visual Studio Projects\zBot\Silkroad\Silkroad\bin\Debug\Silkroad.exe
+C:\Users\Simas\Desktop\Visual Studio Projects\zBot\Silkroad\Silkroad\bin\Debug\Silkroad.pdb
+C:\Users\Simas\Desktop\Visual Studio Projects\zBot\Silkroad\Silkroad\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Simas\Desktop\Visual Studio Projects\zBot\Silkroad\Silkroad\obj\x86\Debug\Silkroad.Form1.resources
+C:\Users\Simas\Desktop\Visual Studio Projects\zBot\Silkroad\Silkroad\obj\x86\Debug\Silkroad.Properties.Resources.resources
+C:\Users\Simas\Desktop\Visual Studio Projects\zBot\Silkroad\Silkroad\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Simas\Desktop\Visual Studio Projects\zBot\Silkroad\Silkroad\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Simas\Desktop\Visual Studio Projects\zBot\Silkroad\Silkroad\obj\x86\Debug\Silkroad.exe
+C:\Users\Simas\Desktop\Visual Studio Projects\zBot\Silkroad\Silkroad\obj\x86\Debug\Silkroad.pdb
+C:\Users\Simas\Desktop\Visual Studio Projects\zBot\Silkroad\Silkroad\bin\Debug\Silkroad.exe.config
+C:\Users\Simas\Desktop\Visual Studio Projects\zBot\Silkroad\Silkroad\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Simas\Desktop\Visual Studio Projects\zBot\Silkroad\Silkroad\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\mgp\Desktop\Global Bot\zBot_source_vsro_by_Zeteris\zBot_source_vsro_by_Zeteris\Silkroad\bin\Debug\Silkroad.exe.config
+C:\Users\mgp\Desktop\Global Bot\zBot_source_vsro_by_Zeteris\zBot_source_vsro_by_Zeteris\Silkroad\obj\x86\Debug\Silkroad.exe
+C:\Users\mgp\Desktop\Global Bot\zBot_source_vsro_by_Zeteris\zBot_source_vsro_by_Zeteris\Silkroad\obj\x86\Debug\Silkroad.pdb
+C:\Users\mgp\Desktop\Global Bot\zBot_source_vsro_by_Zeteris\zBot_source_vsro_by_Zeteris\Silkroad\bin\Debug\Silkroad.exe
+C:\Users\mgp\Desktop\Global Bot\zBot_source_vsro_by_Zeteris\zBot_source_vsro_by_Zeteris\Silkroad\bin\Debug\Silkroad.pdb
+C:\Users\mgp\Desktop\Global Bot\zBot_source_vsro_by_Zeteris\zBot_source_vsro_by_Zeteris\Silkroad\obj\x86\Debug\Silkroad.Form1.resources
+C:\Users\mgp\Desktop\Global Bot\zBot_source_vsro_by_Zeteris\zBot_source_vsro_by_Zeteris\Silkroad\obj\x86\Debug\Silkroad.Properties.Resources.resources
+C:\Users\mgp\Desktop\Global Bot\zBot_source_vsro_by_Zeteris\zBot_source_vsro_by_Zeteris\Silkroad\obj\x86\Debug\Silkroad.csproj.GenerateResource.Cache
+C:\Users\mgp\Desktop\Global Bot\zBot_source_vsro_by_Zeteris\zBot_source_vsro_by_Zeteris\Silkroad\bin\Debug\SRODev Bot[ISRO].exe.config
+D:\bot creat\Clientless login\csro-r bot\Silkroad\bin\Debug\SRODev Bot[CSRO-R].exe.config
+D:\bot creat\Clientless login\csro-r bot\Silkroad\bin\Debug\SRODev Bot[CSRO-R].exe
+D:\bot creat\Clientless login\csro-r bot\Silkroad\bin\Debug\SRODev Bot[CSRO-R].pdb
+D:\bot creat\Clientless login\csro-r bot\Silkroad\obj\x86\Debug\Silkroad.Form1.resources
+D:\bot creat\Clientless login\csro-r bot\Silkroad\obj\x86\Debug\Silkroad.Form2.resources
+D:\bot creat\Clientless login\csro-r bot\Silkroad\obj\x86\Debug\Silkroad.Form3.resources
+D:\bot creat\Clientless login\csro-r bot\Silkroad\obj\x86\Debug\Silkroad.Properties.Resources.resources
+D:\bot creat\Clientless login\csro-r bot\Silkroad\obj\x86\Debug\Silkroad.csproj.GenerateResource.Cache
+D:\bot creat\Clientless login\csro-r bot\Silkroad\obj\x86\Debug\SRODev Bot[CSRO-R].exe
+D:\bot creat\Clientless login\csro-r bot\Silkroad\obj\x86\Debug\SRODev Bot[CSRO-R].pdb
